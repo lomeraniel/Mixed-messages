@@ -71,7 +71,7 @@ Give credit here.
 
 ## Contact
 
-Created by [@lomeraniek](https://lomeraniel.com) - feel free to contact me!
+Created by [@lomeraniel](https://lomeraniel.com) - feel free to contact me!
 
 <!-- Optional -->
 <!-- ## License -->
